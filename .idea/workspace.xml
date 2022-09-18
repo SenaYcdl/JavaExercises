@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77d32e77-0dec-4612-9e4e-8b68b9df54fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyOwnPage/Practice/Sorular" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyOwnPage/day13_replit/Iterator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/JavaInterview/Sorular.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test01_EbobEkok.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test02_StringIcindeYinelenen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test03_For.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test04_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test05_ArrayToplama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test06_Random.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test07_Boom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/KarmaSorular/Test08_tersten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/C01_SortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/C02_SubArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/C03_ReverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/C04_Array_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/C05_Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/C06_Oop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/Collections/TimeComplexityOfSearching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/Cons/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/OOP/Encapsulation01$1Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/OOP/Encapsulation01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/Polymorphism/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/Polymorphism/Civciv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/Polymorphism/Ordek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/Polymorphism/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/MiracHoca_Practice/Sorular" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/StatementsReplit/Q01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/StatementsReplit/Q02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/StatementsReplit/Q03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/StatementsReplit/Q04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/StatementsReplit/Q05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/StatementsReplit/Q06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/StatementsReplit/Q07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day10_arrayLıst/ArrayBınary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day10_arrayLıst/array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day10_arrayLıst/array2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day10_arrayLıst/array3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day11_Const/Test02_IsimDegistirme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day12_Iterator/C01_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day12_Iterator/C02_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day12_Iterator/C03_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day12_Iterator/C04_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day12_Iterator/C05_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day12_Iterator/C06_LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day12_Iterator/C07_Sets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C01_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C03_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C04_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C05_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C06_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C07_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C08_LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C09_Sets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/C10_set.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day13_replit/Iterator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C01_Tersten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C02_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C03_HashTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C04_Hash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C05_IteratorTersten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C06_TreeSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C07_TreeSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C08_TreeSetKarsilastirma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day14_replitCollections/C09_PriorityQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day1_Testler/Test01_IkiString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day2_Constroctur/Isci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day2_Constroctur/IsciRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day3/Test01_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day3/Test02_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day4_Array/Test01_binary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day4_Array/Test02_contains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day4_Array/Test03_MultiDimensional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day4_Array/Test04_EqualsKarsilastirma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day4_Array/Test05_Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day4_Array/Test06_ArrayArrayListYapma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day4_Array/Test07_IkinciEnBuyukSayi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day5_Array/Test01_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day6/BinaryToplama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q01_exceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q02_ExceptionsOdev.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q03_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q04_LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q05_LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q06_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q07_IlkElemanSonEleman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day7/Q08_tryCatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day8_abstractClass/Isci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day8_abstractClass/Memur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day8_abstractClass/Muhasebe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practices/day8_abstractClass/Personel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterview/Sorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test01_EbobEkok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test02_StringIcindeYinelenen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test03_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test04_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test05_ArrayToplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test06_Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test07_Boom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KarmaSorular/Test08_tersten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/C01_SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/C02_SubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/C03_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/C04_Array_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/C05_Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/C06_Oop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/Collections/TimeComplexityOfSearching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/Cons/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/OOP/Encapsulation01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/Polymorphism/Civciv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/Polymorphism/Ordek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/Polymorphism/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiracHoca_Practice/Sorular" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsReplit/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsReplit/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsReplit/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsReplit/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsReplit/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsReplit/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementsReplit/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/Test01_IkiString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_arrayLıst/ArrayBınary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_arrayLıst/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_arrayLıst/array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_arrayLıst/array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_Const/Test02_IsimDegistirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_Iterator/C01_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_Iterator/C02_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_Iterator/C03_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_Iterator/C04_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_Iterator/C05_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_Iterator/C06_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_Iterator/C07_Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C01_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C03_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C04_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C05_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C06_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C07_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C08_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C09_Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/C10_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_replit/Iterator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C01_Tersten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C02_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C03_HashTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C04_Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C05_IteratorTersten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C06_TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C07_TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C08_TreeSetKarsilastirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_replitCollections/C09_PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2_Constroctur/Isci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2_Constroctur/IsciRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Test01_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Test02_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_Array/Test01_binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_Array/Test02_contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_Array/Test03_MultiDimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_Array/Test04_EqualsKarsilastirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_Array/Test05_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_Array/Test06_ArrayArrayListYapma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_Array/Test07_IkinciEnBuyukSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_Array/Test01_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/BinaryToplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q01_exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q02_ExceptionsOdev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q03_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q04_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q05_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q06_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q07_IlkElemanSonEleman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q08_tryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_abstractClass/Isci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_abstractClass/Memur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_abstractClass/Muhasebe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_abstractClass/Personel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C7z0V6oq6XvFcF90dhdNphNS3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Q07">
+    <configuration name="C05_Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiracHoca_Practice.C05_Clock" />
+      <module name="Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MiracHoca_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatementsReplit.Q05" />
+      <module name="Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StatementsReplit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatementsReplit.Q07" />
+      <module name="Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StatementsReplit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiracHoca_Practice.Polymorphism.Runner" />
+      <module name="Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MiracHoca_Practice.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeComplexityOfSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiracHoca_Practice.Collections.TimeComplexityOfSearching" />
+      <module name="Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MiracHoca_Practice.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q07" />
+        <item itemvalue="Application.Q05" />
+        <item itemvalue="Application.TimeComplexityOfSearching" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.C05_Clock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d32e77-0dec-4612-9e4e-8b68b9df54fb" name="Changes" comment="" />
+      <created>1658168190942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658168190942</updated>
+    </task>
+    <servers />
+  </component>
+</project>
